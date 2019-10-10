@@ -1,11 +1,11 @@
 # Site settings
-author: Lorena C
-title: 
+author: Lorena Cardenas
+title: CLI process
 header-img: img/home-bg.png
 email: lorena@eunknown.org
-copyright_name: Lorena C
+copyright_name: Lorena Cardenas
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Stressing
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  lorena57
