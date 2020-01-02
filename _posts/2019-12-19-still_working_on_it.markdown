@@ -1,9 +1,8 @@
 ---
 layout: post
-title:      "Still working on it....."
-date:       2019-12-20 00:45:52 +0000
+title:      "Step by step"
+date:       2019-12-19 19:45:53 -0500
 permalink:  still_working_on_it
 ---
 
-
-I need to get a blog going to submit my project but I'll be back.  For now I will just add a bit of gibberish and the write a proper technical blog. Apparently I can't submit because I need 250 characters so what can I say?  My project is going well, I have to finish before the 30th of the month.
+We started off with learning the basics of Ruby with iterations along with hashes and arrays.  Over time with practice certain methods are like clock work in the sense of you get a better understanding of how it comes together.  We are given the CLI project and then you get over the hump and you feel good but then the SQL part comes and takes the little bit of confidence.  ActiveRecord comes and saves the day and you feel like nothing is going to get in the way and then out of nowhere routes come to steal your thunder.  It is a frustrating and awesome feeling as step by step it comes together.  In my mind routes are all interconneted, piece by piece and if there is a disconnent a ditty will be there to remind you.
